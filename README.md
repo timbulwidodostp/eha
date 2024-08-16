@@ -1,6 +1,8 @@
 # eha
 Parametric survival models Use phreg And coxreg And aftreg (eha) With (In) R Software
 
+https://www.youtube.com/watch?v=feNBVoaqVdI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
